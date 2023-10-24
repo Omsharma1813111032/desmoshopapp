@@ -1,0 +1,26 @@
+.frame{
+    display: flex;
+    margin-left: 30vw;
+    margin-top: 5vw;
+    width:40vw;
+    height:80vh;
+    background-color: yellow;
+}
+
+.Product{
+    margin-left: 5vh;
+    text-align: right;
+    width:80%;
+    height: 20%;
+    background-color: aqua;
+    font-size: 30px;
+    color: red;
+    font-weight: 600;
+}
+
+.date{
+    padding-top: 30px;;
+    width: 40%;
+    height: 60%;
+    background-color: black;
+}
